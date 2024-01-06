@@ -1,6 +1,6 @@
 # SB_OriginXplorer
 
-## what is this app
+## What is this app
 
 This is an app that calculates the current three-axis coordinates based on the distances from four Origin Stations.
 
